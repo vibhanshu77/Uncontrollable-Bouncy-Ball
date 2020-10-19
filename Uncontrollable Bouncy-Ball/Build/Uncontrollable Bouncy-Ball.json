@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Ball",
+"dataUrl": "Uncontrollable Bouncy-Ball.data.unityweb",
+"wasmCodeUrl": "Uncontrollable Bouncy-Ball.wasm.code.unityweb",
+"wasmFrameworkUrl": "Uncontrollable Bouncy-Ball.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
